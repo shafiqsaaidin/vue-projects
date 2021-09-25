@@ -19,5 +19,10 @@ npx json-server --watch data/db.json
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Project Screenshot
+- Homepage
+![homepage](./screenshot/1.png)
+- New project
+![new project](./screenshot/2.png)
+- Completed project filter
+![Completed project filter](./screenshot/3.png)
