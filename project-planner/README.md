@@ -9,6 +9,10 @@ npm install
 ```
 npm run serve
 ```
+### Run database server
+```
+npx json-server --watch data/db.json
+```
 
 ### Compiles and minifies for production
 ```
