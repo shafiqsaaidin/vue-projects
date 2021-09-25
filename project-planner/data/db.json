@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner again",
+      "details": "test je hehe asdhashdahsda",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "Watch hometown cha cha cha",
+      "details": "watch episode 5",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Learn Vuejs",
+      "details": "continue study on chapter 2",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
